@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "462243234353",
+    "firebase_url": "https://filmler-14e5c-default-rtdb.firebaseio.com",
+    "project_id": "filmler-14e5c",
+    "storage_bucket": "filmler-14e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462243234353:android:407c2bb8c6218af1f58b10",
+        "android_client_info": {
+          "package_name": "com.example.a11_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462243234353-9ahs55pjee6i1liatetj96p9re8uqs0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdnKSrVF5XjeMxaXd5TxEcvjVx-DgW84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462243234353-9ahs55pjee6i1liatetj96p9re8uqs0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
